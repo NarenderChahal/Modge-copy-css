@@ -4,7 +4,7 @@
 } 
 
 .w-webflow-badge {
-    display: flex !important;
+    display: none !important;
 }
 .is-active-accordion .line-fill {
   animation: faq-line 2s linear forwards;
