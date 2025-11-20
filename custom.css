@@ -28,7 +28,7 @@ border: 1px solid transparent !important;
   overflow:hidden;
   }
   .w-webflow-badge{
-  display:none !important;
+  display:flex !important;
   }
   
   .logos-overflow {
