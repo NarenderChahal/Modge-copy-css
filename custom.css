@@ -1,8 +1,4 @@
-.title{
-border: 1px solid transparent !important;
- background: linear-gradient(90deg,  #F8EDF9, #ECF8FD ) padding-box, linear-gradient(90deg, #E043B4 0%, #7C52DF 25%, #5A57F4 50%, #495AF8 75%,  #3CFFE2 100%) border-box !important;
- }
- 
+
 .is-active-accordion .line-fill {
   animation: faq-line 2s linear forwards;
 }
