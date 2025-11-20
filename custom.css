@@ -27,7 +27,9 @@ border: 1px solid transparent !important;
  .over{
   overflow:hidden;
   }
-
+  .w-webflow-badge{
+  display:flex !important;
+  }
   
   .logos-overflow {
     width: 100%;
